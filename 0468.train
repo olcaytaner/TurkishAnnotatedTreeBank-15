@@ -1,1 +1,1 @@
-( (NP-TTL (NN {morphologicalAnalysis=aptal+ADJ anlatım+NOUN+A3SG+PNON+NOM}{metaMorphemes=aptal anlatım}{metaMorphemesMoved=aptal anlatım}{turkish=aptal anlatım}{english=Daffynition}{semantics=TUR10-0004180$TUR10-0361590}{namedEntity=NONE})) )
+( (NP-TTL (NN (JJ {morphologicalAnalysis=aptal+ADJ}{metaMorphemes=aptal}{turkish=aptal}{english=Daffynition}{semantics=TUR10-0004180}{namedEntity=NONE}) (NN {morphologicalAnalysis=anlatım+NOUN+A3SG+PNON+NOM}{metaMorphemes=anlatım}{turkish=anlatım}{english=Daffynition}{semantics=TUR10-0361590}{namedEntity=NONE})) ) )
