@@ -1,1 +1,1 @@
-( (NP (NN {morphologicalAnalysis=özet+NOUN+A3PL+PNON+NOM}{metaMorphemes=özet+lAr}{turkish=ÖZETLER}{english=BRIEFS}{semantics=TUR10-0270110}) (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{english=:}{semantics=TUR10-0365770}{namedEntity=NONE}))  )
+( (NP (NP {morphologicalAnalysis=özet+NOUN+A3PL+PNON+NOM}{metaMorphemes=özet+lAr}{turkish=ÖZETLER}{english=BRIEFS}{semantics=TUR10-0270110}) (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{english=:}{semantics=TUR10-0365770}{namedEntity=NONE}))  )

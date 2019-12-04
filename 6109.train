@@ -1,1 +1,1 @@
-( (NP (NN {morphologicalAnalysis=belediye+NOUN+A3PL+PNON+NOM}{metaMorphemes=belediye+lAr}{turkish=Belediyeler}{english=Municipals}{semantics=TUR10-0090390})) )
+( (NP (NP {morphologicalAnalysis=belediye+NOUN+A3PL+PNON+NOM}{metaMorphemes=belediye+lAr}{turkish=Belediyeler}{english=Municipals}{semantics=TUR10-0090390})) )
