@@ -1,1 +1,1 @@
-( (PP (NP (NP {morphologicalAnalysis=memnuniyet+NOUN+A3SG+PNON+INS}{metaMorphemes=memnuniyet+ylA}{turkish=Memnuniyetle}{english=pleasure}{semantics=TUR10-0682320})) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{english=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )
+( (PP (NP {morphologicalAnalysis=memnuniyet+NOUN+A3SG+PNON+INS}{metaMorphemes=memnuniyet+ylA}{turkish=Memnuniyetle}{english=pleasure}{semantics=TUR10-0682320}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{english=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )
