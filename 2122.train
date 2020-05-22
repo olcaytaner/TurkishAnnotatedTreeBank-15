@@ -1,1 +1,1 @@
-( (NP (NNS {morphologicalAnalysis=ıvır+DUP}{metaMorphemes=ıvır}{turkish=Ivır}{english=Odds}{semantics=TUR10-0045870}{namedEntity=NONE}) (NNS {morphologicalAnalysis=zıvır+DUP}{metaMorphemes=zıvır}{turkish=Zıvır}{english=Ends}{semantics=TUR10-0045870}{namedEntity=NONE}))  )
+( (NP (NP {morphologicalAnalysis=ıvır+DUP}{metaMorphemes=ıvır}{turkish=Ivır}{english=Odds}{semantics=TUR10-0045870}{namedEntity=NONE}) (NP {morphologicalAnalysis=zıvır+DUP}{metaMorphemes=zıvır}{turkish=Zıvır}{english=Ends}{semantics=TUR10-0045870}{namedEntity=NONE}))  )
