@@ -1,1 +1,1 @@
-( (S (NP {turkish=Açım}{english=What}) (NOMP {turkish=neydi}{english=What}) (. {morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{turkish=?}{english=?}{semantics=TUR10-0703510}{namedEntity=NONE}))  )
+( (S (NP {morphologicalAnalysis=açı+NOUN+A3SG+P1SG+NOM}{metaMorphemes=açı+Hm}{turkish=Açım}{english=What}) (NOMP {morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG}{metaMorphemes=ne+yDH}{turkish=neydi}{english=What}) (. {morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{turkish=?}{english=?}{semantics=TUR10-0703510}{namedEntity=NONE}))  )
